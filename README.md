@@ -320,11 +320,3 @@ SWITCH(
 * Implemented relational data modeling and advanced DAX calculations
 * Designed interactive visualizations for performance monitoring
 * Generated actionable insights on user engagement and traffic quality
-
----
-
-## 👨‍💻 Author
-
-**K. Mohammed Izhan**
-B.Tech Computer Science and Engineering
-Data Analytics | Business Intelligence | Power BI
