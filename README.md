@@ -314,17 +314,6 @@ SWITCH(
 
 ---
 
-## 📸 Screenshots
-
-```
-screenshots/
-    part1_dashboard.png
-    part2_dashboard.png
-    part3_dashboard.png
-```
-
----
-
 ## 📌 Project Highlights (Resume Ready)
 
 * Built a **3-page Power BI dashboard** analyzing **53,900+ web records**
